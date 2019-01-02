@@ -1,0 +1,27 @@
+{
+  "name": "event-net",
+  "version": "0.0.1",
+  "description": "a simple event from amqp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenxx/event-net.git"
+  },
+  "keywords": [
+    "event",
+    "rabbitmq",
+    "amqp"
+  ],
+  "author": "Kenneth <me@kenx.cn>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenxx/event-net/issues"
+  },
+  "homepage": "https://github.com/kenxx/event-net#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
