@@ -1,5 +1,5 @@
 {
-  "name": "simple-new-event",
+  "name": "simple-net-event",
   "version": "0.0.2",
   "description": "a simple event from amqp",
   "main": "index.js",
