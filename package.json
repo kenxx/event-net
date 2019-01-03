@@ -1,6 +1,6 @@
 {
   "name": "simple-net-event",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "a simple event from amqp",
   "main": "index.js",
   "scripts": {
